@@ -1,0 +1,55 @@
+body {
+  background-size: cover;
+  background-position: center;
+  font-family: 'Quicksand', sans-serif;
+  color: #7d97ad;
+  font-size: 100%
+}
+
+.navbar {
+  margin-bottom: 0;
+  font-size: 2em;
+}
+
+html {
+  height: 100%
+}
+
+.jum_1 {
+  background-image: url(https://www.peepso.com/wp-content/uploads/2015/10/code.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+.con_1 {
+  background-color: black;
+}
+
+.thumbnail {
+  text-align: center;
+}
+
+#content-head {
+  color: white;
+  text-align: center;
+  padding-top: 0;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.5),
+               0px 8px 13px rgba(0, 0, 0, 0.8),
+               0px 18px 23px rgba(0, 0, 0, 0.8);
+}
+
+p {
+  font-size: 1.5em;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+hr {
+  width: 500px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
