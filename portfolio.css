@@ -15,14 +15,12 @@ html {
   height: 100%
 }
 
-.jum_1 {
-  background-image: url(https://www.peepso.com/wp-content/uploads/2015/10/code.jpg);
-  background-position: center;
+.jumbo-1 {
+  background: url(https://www.peepso.com/wp-content/uploads/2015/10/code.jpg) no-repeat center;
   background-size: cover;
-  background-repeat:no-repeat;
 }
 
-.con_1 {
+.cont-1 {
   background-color: black;
 }
 
@@ -39,6 +37,10 @@ html {
                0px 18px 23px rgba(0, 0, 0, 0.8);
 }
 
+#section-title {
+  text-align: center;
+}
+
 p {
   font-size: 1.5em;
 }
@@ -49,7 +51,12 @@ h1 {
 }
 
 hr {
-  width: 500px;
+  width: 50%;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+footer {
+  text-align: right;
+  font-size: 2em;
 }
